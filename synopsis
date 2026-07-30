@@ -1,0 +1,1 @@
+Mood Suggestion Engine is a web application that recommends activities based on the user's current mood. Users select their mood, and the application suggests suitable activities to improve productivity, relaxation, or entertainment. The frontend is designed with HTML, CSS, and JavaScript, while the backend processes user input and returns personalised suggestions.
